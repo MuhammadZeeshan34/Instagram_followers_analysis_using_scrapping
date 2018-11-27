@@ -232,7 +232,7 @@ def get_business_page_details(username,  fols_dict, file):
 
 if __name__ == '__main__':
    # insta_server = 'https://www.instagram.com'
-   # user_name = 'lanolips'
+   # user_name = 'instagram_account_to_be_analysed'
    # user_profile = os.path.join(insta_server, user_name)
     #fol1 = insta_scrapping(user_profile)
     driver = webdriver.Chrome(r"/Users/zeeshannawaz/Downloads/chromedriver")
