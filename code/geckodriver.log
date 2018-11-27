@@ -1,0 +1,1081 @@
+1540297631510	geckodriver	INFO	geckodriver 0.18.0
+1540297631563	geckodriver	INFO	Listening on 127.0.0.1:54988
+1540297633027	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:27:14.763 plugin-container[36188:801086] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:27:15.040 plugin-container[36188:801086] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x108f42b50 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:27:15.046 plugin-container[36188:801096] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:27:15.273 plugin-container[36189:801111] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8333, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:27:15.439 plugin-container[36189:801111] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1111e41c0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:27:15.442 plugin-container[36189:801119] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540297635663	Marionette	INFO	Listening on port 54999
+1540297635699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540297635756	Marionette	DEBUG	[4294967297] Frame script loaded
+1540297635775	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-23 13:27:16.711 plugin-container[36190:801235] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:27:16.906 plugin-container[36190:801235] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10efe8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:27:16.909 plugin-container[36190:801247] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540297638324	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1540297638943	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540297639755	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540297640372	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540297709922	Marionette	INFO	Stopped listening on port 54999
+1540297713592	geckodriver	INFO	geckodriver 0.18.0
+1540297713640	geckodriver	INFO	Listening on 127.0.0.1:55081
+1540297714740	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:28:36.510 plugin-container[36216:801871] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:28:36.821 plugin-container[36216:801871] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x11431ab80 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:28:36.825 plugin-container[36216:801873] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:28:36.896 plugin-container[36217:801894] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:28:37.073 plugin-container[36217:801894] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x114ae3d30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:28:37.077 plugin-container[36217:801903] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540297717296	Marionette	INFO	Listening on port 55092
+1540297717379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540297717432	Marionette	DEBUG	[4294967297] Frame script loaded
+1540297717434	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-23 13:28:37.880 plugin-container[36218:802006] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:28:37.991 plugin-container[36218:802006] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10a8e8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:28:37.994 plugin-container[36218:802008] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540297727390	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1540297727917	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540297728413	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540297728729	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540297737804	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540297770291	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540297770558	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540297770575	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540297770617	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967320
+1540297770617	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967313
+1540297770626	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1540297770626	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967315
+1540297770626	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540297770970	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/imane_azarou/
+1540297771385	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/imane_azarou/
+1540297777166	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540297789550	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540297857487	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/imane_azarou/following/
+1540297857683	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/imane_azarou/following/
+1540297857688	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/imane_azarou/following/
+1540297857750	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/aristarxzhelobanov3709/
+1540297857818	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967329
+1540297857818	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967330
+1540297857819	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967331
+1540297857820	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967323
+1540297857820	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967441
+1540297857932	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/aristarxzhelobanov3709/
+1540297857959	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/aristarxzhelobanov3709/
+1540297858354	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/aristarxzhelobanov3709/
+1540297858354	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/aristarxzhelobanov3709/
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540297858869	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/beautybyjosephinegallo/
+1540297859516	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/beautybyjosephinegallo/
+1540297859802	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967452
+1540297859995	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967445
+1540297859996	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967446
+1540297860006	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540297864363	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540297907226	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/beautybyjosephinegallo/following/
+1540297907781	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/beautybyjosephinegallo/following/
+1540297907785	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/beautybyjosephinegallo/following/
+1540297907892	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967457
+1540297907892	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967458
+1540297907893	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967461
+1540297907893	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967462
+1540297907893	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967455
+1540297907893	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967449
+1540297907894	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967574
+1540297908111	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/oliviabelllmakeup/
+1540297908994	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/oliviabelllmakeup/
+1540297909320	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967577
+1540297909320	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967578
+1540297909505	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967584
+1540297909554	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540297913931	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540297961837	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/oliviabelllmakeup/following/
+1540297962324	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/oliviabelllmakeup/following/
+1540297962329	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/oliviabelllmakeup/following/
+1540297962414	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967586
+1540297962414	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967587
+1540297962415	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967590
+1540297962416	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967591
+1540297962416	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967592
+1540297962417	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967581
+1540297962417	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967703
+1540297962640	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/africanfashionmagaz/
+1540297963444	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/africanfashionmagaz/
+1540297963864	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967709
+1540297964081	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540297968441	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298039170	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/africanfashionmagaz/following/
+1540298039617	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/africanfashionmagaz/following/
+1540298039621	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/africanfashionmagaz/following/
+1540298039735	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967712
+1540298039735	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967713
+1540298039736	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967714
+1540298039736	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967706
+1540298039736	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967822
+1540298040072	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/carinphillips_x/
+1540298040942	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967825
+1540298040944	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967826
+1540298041242	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/carinphillips_x/
+1540298041625	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967836
+1540298041743	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298046094	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298094563	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/carinphillips_x/following/
+1540298095135	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/carinphillips_x/following/
+1540298095143	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/carinphillips_x/following/
+1540298095231	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967832
+1540298095231	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967833
+1540298095232	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967839
+1540298095232	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967840
+1540298095232	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967841
+1540298095233	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967829
+1540298095450	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/vstolea/
+1540298095964	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/vstolea/
+1540298096184	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967923
+1540298096343	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967916
+1540298096343	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967917
+1540298096443	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298100842	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298115705	geckodriver	INFO	geckodriver 0.18.0
+1540298115754	geckodriver	INFO	Listening on 127.0.0.1:58433
+1540298116925	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:35:18.820 plugin-container[36242:804798] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:35:19.161 plugin-container[36243:804826] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:35:19.187 plugin-container[36242:804798] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10b8eb160 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:35:19.192 plugin-container[36242:804800] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:35:19.330 plugin-container[36243:804826] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10c2e4d30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:35:19.336 plugin-container[36243:804832] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298119347	Marionette	INFO	Listening on port 58444
+1540298119424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540298119487	Marionette	DEBUG	[4294967297] Frame script loaded
+1540298119491	Marionette	DEBUG	[4294967297] Frame script registered
+1540298119543	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 13:35:20.067 plugin-container[36244:804944] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7433, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540298120193	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-23 13:35:20.200 plugin-container[36244:804944] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x106be8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:35:20.208 plugin-container[36244:804945] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298120966	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540298121785	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540298142378	Marionette	INFO	Stopped listening on port 58444
+1540298143997	Marionette	INFO	Stopped listening on port 55092
+1540298146432	geckodriver	INFO	geckodriver 0.18.0
+1540298146488	geckodriver	INFO	Listening on 127.0.0.1:58512
+1540298147596	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:35:49.078 plugin-container[36257:805299] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:35:49.342 plugin-container[36257:805299] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x11b032100 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:35:49.346 plugin-container[36257:805300] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:35:49.467 plugin-container[36258:805321] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:35:49.642 plugin-container[36258:805321] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x109ae31c0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:35:49.646 plugin-container[36258:805330] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298149801	Marionette	INFO	Listening on port 58523
+1540298149823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540298149878	Marionette	DEBUG	[4294967297] Frame script loaded
+1540298149880	Marionette	DEBUG	[4294967297] Frame script registered
+1540298149955	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 13:35:50.253 plugin-container[36259:805420] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:35:50.379 plugin-container[36259:805420] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1080e7af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:35:50.383 plugin-container[36259:805421] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298150550	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298151259	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540298151829	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540298168693	geckodriver	INFO	geckodriver 0.18.0
+1540298168744	geckodriver	INFO	Listening on 127.0.0.1:58592
+1540298169821	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:36:11.368 plugin-container[36271:805701] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:36:11.653 plugin-container[36271:805701] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x111a42d30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:36:11.656 plugin-container[36271:805704] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:36:11.780 plugin-container[36272:805723] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:36:11.935 plugin-container[36272:805723] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1046e3d30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:36:11.939 plugin-container[36272:805740] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298172081	Marionette	INFO	Listening on port 58603
+1540298172149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540298172200	Marionette	DEBUG	[4294967297] Frame script loaded
+1540298172206	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-23 13:36:12.815 plugin-container[36273:805823] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:36:12.996 plugin-container[36273:805823] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10bbe8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:36:13.000 plugin-container[36273:805824] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298173231	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1540298173766	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298174638	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540298175087	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1540298185406	Marionette	INFO	Stopped listening on port 58523
+1540298188420	geckodriver	INFO	geckodriver 0.18.0
+1540298188468	geckodriver	INFO	Listening on 127.0.0.1:58671
+1540298189565	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:36:31.231 plugin-container[36287:806285] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:36:31.660 plugin-container[36287:806285] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x107642160 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:36:31.668 plugin-container[36287:806287] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:36:31.833 plugin-container[36288:806307] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:36:32.016 plugin-container[36288:806307] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1118e3190 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:36:32.020 plugin-container[36288:806315] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298192298	Marionette	INFO	Listening on port 58682
+1540298192388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540298192459	Marionette	DEBUG	[4294967297] Frame script loaded
+1540298192473	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-23 13:36:32.631 plugin-container[36289:806407] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:36:32.877 plugin-container[36289:806407] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1074e5af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:36:32.882 plugin-container[36289:806408] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298195581	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1540298196116	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298196849	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540298197304	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540298201676	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298208572	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540298209067	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540298209077	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540298209150	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967311
+1540298209150	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967313
+1540298209151	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1540298209151	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967315
+1540298209151	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298209524	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/satishchauhan79/
+1540298210574	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/satishchauhan79/
+1540298210784	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967326
+1540298211000	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298215437	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298234656	Marionette	INFO	Stopped listening on port 58682
+1540298476583	geckodriver	INFO	geckodriver 0.18.0
+1540298476632	geckodriver	INFO	Listening on 127.0.0.1:58980
+1540298477726	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:41:19.381 plugin-container[36405:809856] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:41:19.650 plugin-container[36405:809856] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x105a24b80 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:41:19.655 plugin-container[36405:809858] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:41:19.808 plugin-container[36406:809880] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:41:19.968 plugin-container[36406:809880] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1074e41c0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:41:19.975 plugin-container[36406:809898] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298480216	Marionette	INFO	Listening on port 58991
+1540298480310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540298480358	Marionette	DEBUG	[4294967297] Frame script loaded
+1540298480389	Marionette	DEBUG	[4294967297] Frame script registered
+1540298480420	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 13:41:20.854 plugin-container[36407:809991] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540298480951	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-23 13:41:21.047 plugin-container[36407:809991] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10bae8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:41:21.050 plugin-container[36407:810000] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298481892	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540298482567	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540298485098	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298488677	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540298489269	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540298489284	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540298489537	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967317
+1540298489546	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967311
+1540298489551	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1540298489552	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967313
+1540298489553	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298490668	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/gjrmakeup/
+1540298491283	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/gjrmakeup/
+1540298491404	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967323
+1540298491608	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298495984	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298506991	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/gjrmakeup/following/
+1540298507617	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/gjrmakeup/following/
+1540298507621	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/gjrmakeup/following/
+1540298507689	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967320
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298508076	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/w2dq86/
+1540298508908	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/w2dq86/
+1540298509153	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967374
+1540298509295	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298513734	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298547009	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/w2dq86/following/
+1540298547350	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/w2dq86/following/
+1540298547355	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/w2dq86/following/
+1540298547451	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967377
+1540298547451	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967378
+1540298547452	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967379
+1540298547452	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967371
+1540298547452	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967489
+1540298547667	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/mrsviil/
+1540298548005	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/mrsviil/
+1540298548047	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/mrsviil/
+1540298548549	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/mrsviil/
+1540298548573	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/mrsviil/
+1540298548730	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967497
+1540298548731	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967498
+1540298548731	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967499
+1540298548731	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967492
+1540298548732	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967495
+1540298548981	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/kanawablog/
+1540298549745	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/kanawablog/
+1540298550035	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967507
+1540298550120	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298554507	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298609380	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/kanawablog/following/
+1540298609816	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/kanawablog/following/
+1540298609819	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/kanawablog/following/
+1540298609919	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967509
+1540298609920	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967510
+1540298609920	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967511
+1540298609920	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967504
+1540298609921	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967622
+1540298610147	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/alise_health_and_beauty/
+1540298610597	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/alise_health_and_beauty/
+1540298610740	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967628
+1540298610956	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298615304	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298679972	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/alise_health_and_beauty/following/
+1540298680535	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/alise_health_and_beauty/following/
+1540298680540	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/alise_health_and_beauty/following/
+1540298680653	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967633
+1540298680654	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967634
+1540298680655	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967631
+1540298680655	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967625
+1540298680656	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967743
+1540298680901	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/auroraisachi/
+1540298681666	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967746
+1540298681667	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967747
+1540298681822	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/auroraisachi/
+1540298682404	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967757
+1540298682404	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298687296	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298772821	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/auroraisachi/following/
+1540298773231	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/auroraisachi/following/
+1540298773235	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/auroraisachi/following/
+1540298773338	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967753
+1540298773338	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967754
+1540298773338	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967759
+1540298773339	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967760
+1540298773339	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967761
+1540298773339	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967750
+1540298773340	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967872
+1540298773575	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/ashlinduffy/
+1540298774250	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967875
+1540298774251	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967876
+1540298774328	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/ashlinduffy/
+1540298774705	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967886
+1540298774826	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298779169	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298804332	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/ashlinduffy/following/
+1540298805187	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/ashlinduffy/following/
+1540298805192	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/ashlinduffy/following/
+1540298805283	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967882
+1540298805284	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967883
+1540298805284	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967888
+1540298805284	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967889
+1540298805284	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967890
+1540298805284	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967879
+1540298805570	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/happiness.hawaii.heart/
+1540298806848	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/happiness.hawaii.heart/
+1540298807148	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967941
+1540298807211	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298811563	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298906042	geckodriver	INFO	geckodriver 0.18.0
+1540298906092	geckodriver	INFO	Listening on 127.0.0.1:62312
+1540298907282	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1540298907301	Marionette	INFO	Stopped listening on port 58991
+2018-10-23 13:48:29.502 plugin-container[36433:812138] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:48:29.836 plugin-container[36433:812138] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10dce1d00 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:48:29.842 plugin-container[36433:812149] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:48:30.379 plugin-container[36434:812164] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540298910445	Marionette	INFO	Listening on port 62323
+1540298910469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540298910623	Marionette	DEBUG	[4294967297] Frame script loaded
+1540298910638	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-23 13:48:30.641 plugin-container[36434:812164] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1108e3d00 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:48:30.646 plugin-container[36434:812168] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298910671	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 13:48:31.149 plugin-container[36435:812284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:48:31.312 plugin-container[36435:812284] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x110ce6f40 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:48:31.316 plugin-container[36435:812292] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298911996	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298913678	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540298914783	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540298917304	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298920500	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540298921131	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540298921136	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540298921198	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540298921619	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/vstolea/
+1540298922586	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1540298922587	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967315
+1540298922809	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/vstolea/
+1540298922936	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967323
+1540298923106	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298927459	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540298994727	geckodriver	INFO	geckodriver 0.18.0
+1540298994784	geckodriver	INFO	Listening on 127.0.0.1:62498
+1540298995844	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:49:57.507 plugin-container[36463:813272] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:49:57.740 plugin-container[36463:813272] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10ed16b80 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:49:57.744 plugin-container[36463:813274] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:49:57.817 plugin-container[36464:813293] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:49:57.987 plugin-container[36464:813293] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1017e4190 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:49:57.992 plugin-container[36464:813301] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298998208	Marionette	INFO	Listening on port 62510
+1540298998261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540298998311	Marionette	DEBUG	[4294967297] Frame script loaded
+1540298998316	Marionette	DEBUG	[4294967297] Frame script registered
+1540298998342	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 13:49:59.191 plugin-container[36465:813413] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:49:59.377 plugin-container[36465:813413] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10e4e8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:49:59.381 plugin-container[36465:813415] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540298999611	Marionette	INFO	Stopped listening on port 62323
+1540299003379	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299008013	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540299008941	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540299011423	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299013773	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540299014357	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540299014362	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540299014400	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299014709	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/vstolea/
+1540299016070	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967315
+1540299016070	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967316
+1540299017307	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/vstolea/
+1540299017703	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967323
+1540299017710	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299022148	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299033809	Marionette	INFO	Stopped listening on port 62510
+1540299036256	geckodriver	INFO	geckodriver 0.18.0
+1540299036303	geckodriver	INFO	Listening on 127.0.0.1:62657
+1540299037371	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:50:38.862 plugin-container[36477:813819] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:50:39.162 plugin-container[36477:813819] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10af191f0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:50:39.166 plugin-container[36477:813821] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:50:39.297 plugin-container[36478:813842] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:50:39.470 plugin-container[36478:813842] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1132e31c0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:50:39.474 plugin-container[36478:813848] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540299039684	Marionette	INFO	Listening on port 62669
+1540299039732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540299039786	Marionette	DEBUG	[4294967297] Frame script loaded
+1540299039807	Marionette	DEBUG	[4294967297] Frame script registered
+1540299039833	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 13:50:40.236 plugin-container[36479:813952] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:50:40.365 plugin-container[36479:813952] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10fbe8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:50:40.369 plugin-container[36479:813954] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540299040888	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299041812	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540299042480	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540299045019	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299048756	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540299049304	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540299049317	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540299049607	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299050763	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/vstolea/
+1540299052352	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967311
+1540299052352	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1540299054113	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/vstolea/
+1540299054356	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967322
+1540299054512	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299058966	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0096,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0096,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0096,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0096,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0096,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0096,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0096,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+1540299253501	geckodriver	INFO	geckodriver 0.18.0
+1540299253557	geckodriver	INFO	Listening on 127.0.0.1:62816
+1540299254628	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 13:54:16.364 plugin-container[36499:815670] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:54:16.688 plugin-container[36499:815670] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x107541d00 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:54:16.692 plugin-container[36499:815671] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 13:54:16.804 plugin-container[36500:815695] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:54:16.998 plugin-container[36500:815695] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10e3e3a90 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:54:17.005 plugin-container[36500:815704] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540299257129	Marionette	INFO	Listening on port 62827
+1540299257196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540299257248	Marionette	DEBUG	[4294967297] Frame script loaded
+1540299257250	Marionette	DEBUG	[4294967297] Frame script registered
+1540299257299	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 13:54:17.703 plugin-container[36501:815819] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8927, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 13:54:17.840 plugin-container[36501:815819] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10c6e8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 13:54:17.844 plugin-container[36501:815820] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540299257898	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299258544	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540299259643	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540299262150	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299267437	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540299267841	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540299267859	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540299268030	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967317
+1540299268031	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967311
+1540299268032	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1540299268032	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967313
+1540299268033	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299269534	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/happiness.hawaii.heart/
+1540299271116	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/happiness.hawaii.heart/
+1540299271306	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967323
+1540299271431	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299275805	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299305337	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/happiness.hawaii.heart/following/
+1540299305830	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/happiness.hawaii.heart/following/
+1540299305841	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/happiness.hawaii.heart/following/
+1540299305940	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967320
+1540299305940	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967452
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299306371	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/m.smakeup1/
+1540299307230	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/m.smakeup1/
+1540299307697	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967458
+1540299307929	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299312279	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299358966	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/m.smakeup1/following/
+1540299359348	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/m.smakeup1/following/
+1540299359350	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/m.smakeup1/following/
+1540299359456	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967463
+1540299359457	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967464
+1540299359457	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967461
+1540299359458	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967455
+1540299359458	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967573
+1540299359672	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/mua.feature.ig/
+1540299360564	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/mua.feature.ig/
+1540299361078	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967579
+1540299361158	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299365593	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299413312	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/mua.feature.ig/following/
+1540299413754	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/mua.feature.ig/following/
+1540299413756	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/mua.feature.ig/following/
+1540299413856	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967581
+1540299413856	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967582
+1540299413857	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967583
+1540299413857	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967576
+1540299413857	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967694
+1540299414075	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/m_awe_sm/
+1540299414356	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/m_awe_sm/
+1540299414384	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/m_awe_sm/
+1540299414854	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/m_awe_sm/
+1540299414859	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/m_awe_sm/
+1540299414899	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967703
+1540299414900	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967704
+1540299414900	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967705
+1540299414901	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967697
+1540299414901	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967700
+1540299415113	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/lanadidmymakeup/
+1540299415746	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/lanadidmymakeup/
+1540299416103	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967713
+1540299416264	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299420604	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299437552	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/lanadidmymakeup/following/
+1540299437880	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/lanadidmymakeup/following/
+1540299437884	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/lanadidmymakeup/following/
+1540299437957	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967716
+1540299437958	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967717
+1540299437958	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967718
+1540299437958	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967710
+1540299438168	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/famme_fatal195/
+1540299438933	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967785
+1540299438933	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967786
+1540299439129	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967796
+1540299439204	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/famme_fatal195/
+1540299439598	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299444078	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299491311	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/famme_fatal195/following/
+1540299491784	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/famme_fatal195/following/
+1540299491789	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/famme_fatal195/following/
+1540299491880	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967792
+1540299491880	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967793
+1540299491881	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967801
+1540299491881	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967802
+1540299491881	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967803
+1540299491881	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967789
+1540299491882	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967910
+1540299492102	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/glambycnd/
+1540299492669	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/glambycnd/
+1540299492933	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967916
+1540299493134	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299497522	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299522836	Marionette	INFO	Stopped listening on port 62669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540299525047	Marionette	INFO	Stopped listening on port 62827
+1540299673654	geckodriver	INFO	geckodriver 0.18.0
+1540299673707	geckodriver	INFO	Listening on 127.0.0.1:49655
+1540299674826	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 14:01:16.695 plugin-container[36620:819594] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:01:17.014 plugin-container[36620:819594] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x108af2250 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:01:17.018 plugin-container[36620:819596] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 14:01:17.087 plugin-container[36621:819617] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:01:17.267 plugin-container[36621:819617] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10a1e3190 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:01:17.270 plugin-container[36621:819633] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540299677507	Marionette	INFO	Listening on port 49666
+1540299677575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540299677629	Marionette	DEBUG	[4294967297] Frame script loaded
+1540299677670	Marionette	DEBUG	[4294967297] Frame script registered
+1540299677720	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 14:01:17.958 plugin-container[36622:819728] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:01:18.145 plugin-container[36622:819728] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1159e8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:01:18.152 plugin-container[36622:819730] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540299678348	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299678958	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540299679390	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540299681874	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299685869	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540299686466	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540299686494	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540299686814	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967317
+1540299686815	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967311
+1540299686815	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1540299686816	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967313
+1540299686816	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299687851	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/glambycnd/
+1540299688785	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/glambycnd/
+1540299688996	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967323
+1540299689222	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299693579	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299917070	geckodriver	INFO	geckodriver 0.18.0
+1540299917119	geckodriver	INFO	Listening on 127.0.0.1:49785
+1540299918185	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 14:05:19.702 plugin-container[36635:820936] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:05:19.994 plugin-container[36635:820936] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10e134100 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:05:19.999 plugin-container[36635:820938] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 14:05:20.179 plugin-container[36636:820958] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:05:20.343 plugin-container[36636:820958] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1049e3d30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:05:20.347 plugin-container[36636:820978] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540299920458	Marionette	INFO	Listening on port 49796
+1540299920514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540299920569	Marionette	DEBUG	[4294967297] Frame script loaded
+1540299920575	Marionette	DEBUG	[4294967297] Frame script registered
+1540299920606	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 14:05:21.071 plugin-container[36637:821083] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540299921098	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-23 14:05:21.273 plugin-container[36637:821083] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10c4e9af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:05:21.277 plugin-container[36637:821085] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299921685	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540299922089	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540299924598	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299928549	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540299929042	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540299929085	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540299929439	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967317
+1540299929440	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967311
+1540299929440	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1540299929441	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967313
+1540299929442	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299930516	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/glambycnd/
+1540299931833	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/glambycnd/
+1540299932350	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967323
+1540299932550	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299937280	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299943670	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/glambycnd/following/
+1540299944191	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/glambycnd/following/
+1540299944195	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/glambycnd/following/
+1540299944246	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967326
+1540299944246	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967327
+1540299944247	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967328
+1540299944248	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967320
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540299944572	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/alina.guzman.sd/
+1540299945394	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/alina.guzman.sd/
+1540299945732	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967376
+1540299945878	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299950255	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299980390	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/alina.guzman.sd/following/
+1540299980850	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/alina.guzman.sd/following/
+1540299980856	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/alina.guzman.sd/following/
+1540299980985	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967378
+1540299980986	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967379
+1540299980986	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967383
+1540299980987	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967384
+1540299980987	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967385
+1540299980988	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967373
+1540299980988	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967515
+1540299981250	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/hebeloft/
+1540299982190	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967518
+1540299982190	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967519
+1540299982334	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/hebeloft/
+1540299982664	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967529
+1540299982763	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540299987107	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300060215	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/hebeloft/following/
+1540300060534	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/hebeloft/following/
+1540300060538	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/hebeloft/following/
+1540300060774	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/raquelita500/
+1540300060825	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967525
+1540300060825	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967526
+1540300060825	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967531
+1540300060826	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967532
+1540300060827	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967533
+1540300060827	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967522
+1540300061059	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/raquelita500/
+1540300061191	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/raquelita500/
+1540300061475	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/raquelita500/
+1540300061476	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/raquelita500/
+1540300061735	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/biancavmercurio/
+1540300062089	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/biancavmercurio/
+1540300062116	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/biancavmercurio/
+1540300062570	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/biancavmercurio/
+1540300062576	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/biancavmercurio/
+1540300062644	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967637
+1540300062644	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967638
+1540300062645	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967639
+1540300062645	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967632
+1540300062645	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967635
+1540300062859	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/makeupbymanelle/
+1540300063358	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/makeupbymanelle/
+1540300063523	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967651
+1540300063709	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967644
+1540300063711	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967645
+1540300063725	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300068080	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300079754	geckodriver	INFO	geckodriver 0.18.0
+1540300079807	geckodriver	INFO	Listening on 127.0.0.1:51329
+[Parent 36634, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540300080684	Marionette	INFO	Stopped listening on port 49796
+1540300080934	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1540300082608	Marionette	INFO	Stopped listening on port 49666
+2018-10-23 14:08:02.944 plugin-container[36656:822228] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:08:03.201 plugin-container[36656:822228] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x109b1cd90 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:08:03.206 plugin-container[36656:822229] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 14:08:03.279 plugin-container[36657:822273] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:08:03.474 plugin-container[36657:822273] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1012e5d30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:08:03.483 plugin-container[36657:822280] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540300083705	Marionette	INFO	Listening on port 51341
+1540300083789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540300083857	Marionette	DEBUG	[4294967297] Frame script loaded
+1540300083859	Marionette	DEBUG	[4294967297] Frame script registered
+1540300083903	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 14:08:04.020 plugin-container[36658:822386] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:08:04.182 plugin-container[36658:822386] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1149e3b20 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:08:04.185 plugin-container[36658:822388] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540300084755	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300087090	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540300089101	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540300091726	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300094077	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540300094480	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540300094490	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540300094532	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300094877	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/happiness.hawaii.heart/
+1540300095552	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/happiness.hawaii.heart/
+1540300095768	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1540300095971	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300100380	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300127947	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/happiness.hawaii.heart/following/
+1540300128589	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/happiness.hawaii.heart/following/
+1540300128595	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/happiness.hawaii.heart/following/
+1540300128673	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967317
+1540300128674	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967318
+1540300128674	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967319
+1540300128674	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967311
+1540300128675	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967427
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300129038	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/glambycnd/
+1540300129569	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/glambycnd/
+1540300129769	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967433
+1540300129960	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300134290	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300141187	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/glambycnd/following/
+1540300141842	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/glambycnd/following/
+1540300141848	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/glambycnd/following/
+1540300141912	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967438
+1540300141913	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967439
+1540300141913	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967436
+1540300141913	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967430
+1540300142140	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/makeupbymanelle/
+1540300142582	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/makeupbymanelle/
+1540300142758	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967486
+1540300142844	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967479
+1540300142844	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967480
+1540300142964	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300147348	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300170119	Marionette	INFO	Stopped listening on port 51341
+1540300359791	geckodriver	INFO	geckodriver 0.18.0
+1540300359839	geckodriver	INFO	Listening on 127.0.0.1:52376
+1540300360915	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 14:12:42.446 plugin-container[36782:825875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:12:42.736 plugin-container[36782:825875] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x104842d00 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:12:42.740 plugin-container[36782:825923] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 14:12:42.908 plugin-container[36783:825944] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:12:43.103 plugin-container[36783:825944] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x115de4d30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:12:43.108 plugin-container[36783:825964] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540300363229	Marionette	INFO	Listening on port 52390
+1540300363265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540300363319	Marionette	DEBUG	[4294967297] Frame script loaded
+1540300363320	Marionette	DEBUG	[4294967297] Frame script registered
+1540300363368	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 14:12:43.827 plugin-container[36784:826057] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540300363911	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-23 14:12:44.001 plugin-container[36784:826057] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1068e8af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:12:44.007 plugin-container[36784:826059] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300364556	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540300365036	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540300367576	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300369965	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.instagram.com/
+1540300370402	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.instagram.com/
+1540300370420	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.instagram.com/
+1540300370714	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300372700	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/atmospheric_beauty/
+1540300373248	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967311
+1540300373250	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1540300373500	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/atmospheric_beauty/
+1540300373979	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967322
+1540300374060	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300378411	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1540300388887	Marionette	INFO	Stopped listening on port 52390
+1540300464787	geckodriver	INFO	geckodriver 0.18.0
+1540300464842	geckodriver	INFO	Listening on 127.0.0.1:52780
+1540300465897	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+[Parent 36834, Gecko_IOThread] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 846
+[Parent 36834, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 561
+2018-10-23 14:14:37.423 plugin-container[36838:827851] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:14:37.534 plugin-container[36838:827851] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10ba42d00 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:14:37.538 plugin-container[36838:827863] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+[Parent 36834, Gecko_IOThread] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 846
+[Parent 36834, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 561
+2018-10-23 14:14:47.901 plugin-container[36842:827958] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:14:48.070 plugin-container[36842:827958] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10fee31c0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:14:48.075 plugin-container[36842:827974] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540300488491	Marionette	INFO	Listening on port 52791
+1540300488596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540300488644	Marionette	DEBUG	[8589934593] Frame script loaded
+1540300488646	Marionette	DEBUG	[8589934593] Frame script registered
+1540300488672	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for about:blank
+1540300489261	Marionette	DEBUG	[8589934593] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300489899	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540300490261	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540300492765	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300495705	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.instagram.com/
+1540300496167	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.instagram.com/
+1540300496174	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.instagram.com/
+1540300496268	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934604
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300496862	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.instagram.com/atmospheric_beauty/
+1540300497776	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934608
+1540300497777	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934609
+1540300497818	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.instagram.com/atmospheric_beauty/
+1540300498433	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934619
+1540300498433	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1540300502814	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+2018-10-23 14:15:49.861 plugin-container[36866:829041] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:15:49.965 plugin-container[36866:829041] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x111cead00 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:15:49.968 plugin-container[36866:829043] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540300557205	Marionette	INFO	Stopped listening on port 52791
+1540300769841	geckodriver	INFO	geckodriver 0.18.0
+1540300769887	geckodriver	INFO	Listening on 127.0.0.1:53439
+1540300770964	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-23 14:19:32.542 plugin-container[36989:831770] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x880b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:19:32.774 plugin-container[36989:831770] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10d242d00 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:19:32.777 plugin-container[36989:831780] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 14:19:32.947 plugin-container[36990:831794] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:19:33.108 plugin-container[36990:831794] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10dce3190 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:19:33.112 plugin-container[36990:831800] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540300773179	Marionette	INFO	Listening on port 53450
+1540300773263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540300773315	Marionette	DEBUG	[4294967297] Frame script loaded
+1540300773330	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-23 14:19:33.751 plugin-container[36991:831909] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:19:33.855 plugin-container[36991:831909] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x106fe7af0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:19:33.858 plugin-container[36991:831911] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540300791437	geckodriver	INFO	geckodriver 0.18.0
+1540300791483	geckodriver	INFO	Listening on 127.0.0.1:53509
+1540300792553	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1540300803504	geckodriver	INFO	geckodriver 0.18.0
+1540300803550	geckodriver	INFO	Listening on 127.0.0.1:53522
+1540300804637	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+[Parent 37007, Gecko_IOThread] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 846
+[Parent 37007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 561
+[Parent 37007, Gecko_IOThread] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 846
+[Parent 37007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 561
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 397: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 36988, Gecko_IOThread] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 846
+[Parent 36988, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 561
+[Parent 37007, Gecko_IOThread] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 846
+[Parent 37007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 561
+[Parent 37007, Gecko_IOThread] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 846
+[Parent 37007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 561
+1540300851607	Marionette	INFO	Stopped listening on port 53450
+[Parent 37007, Gecko_IOThread] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 846
+[Parent 37007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 561
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 397: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 1676: TypeError: aBrowser.webProgress is null
+2018-10-23 14:20:56.509 plugin-container[37010:832489] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 14:20:56.669 plugin-container[37010:832489] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1115e4d30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:20:56.673 plugin-container[37010:832490] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540300856997	Marionette	INFO	Listening on port 53534
+2018-10-23 14:20:57.002 plugin-container[37011:832554] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540300857044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540300857119	Marionette	DEBUG	[12884901889] Frame script loaded
+1540300857142	Marionette	DEBUG	[12884901889] Frame script registered
+1540300857186	Marionette	DEBUG	[12884901889] Received DOM event beforeunload for about:blank
+2018-10-23 14:20:57.223 plugin-container[37011:832554] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x109f43d30 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 14:20:57.227 plugin-container[37011:832555] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540300857646	Marionette	DEBUG	[12884901889] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300858026	Marionette	DEBUG	[12884901889] Received DOM event DOMContentLoaded for https://www.instagram.com/accounts/login/
+1540300858331	Marionette	DEBUG	[12884901889] Received DOM event pageshow for https://www.instagram.com/accounts/login/
+1540300860818	Marionette	DEBUG	[12884901889] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300863095	Marionette	DEBUG	[12884901889] Received DOM event beforeunload for https://www.instagram.com/
+1540300863748	Marionette	DEBUG	[12884901889] Received DOM event pagehide for https://www.instagram.com/
+1540300863754	Marionette	DEBUG	[12884901889] Received DOM event unload for https://www.instagram.com/
+1540300863781	Marionette	DEBUG	[12884901889] Received observer notification outer-window-destroyed for 12884901903
+1540300863781	Marionette	DEBUG	[12884901889] Received observer notification outer-window-destroyed for 12884901904
+1540300863783	Marionette	DEBUG	[12884901889] Received observer notification outer-window-destroyed for 12884901905
+1540300863783	Marionette	DEBUG	[12884901889] Received observer notification outer-window-destroyed for 12884901900
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/1cc22f9e4f4a.js, line 1: unreachable code after return statement
+1540300864136	Marionette	DEBUG	[12884901889] Received DOM event DOMContentLoaded for https://www.instagram.com/jauhhnet/
+1540300864702	Marionette	DEBUG	[12884901889] Received DOM event pageshow for https://www.instagram.com/jauhhnet/
+1540300864857	Marionette	DEBUG	[12884901889] Received observer notification outer-window-destroyed for 12884901913
+1540300865108	Marionette	DEBUG	[12884901889] Canceled page load listener because no navigation has been detected
+1540300869486	Marionette	DEBUG	[12884901889] Canceled page load listener because no navigation has been detected
+JavaScript error: chrome://browser/content/tabbrowser.js, line 4090: TypeError: browser.webProgress is null
+1540300945981	Marionette	INFO	Stopped listening on port 53534
